@@ -1,0 +1,1 @@
+Estimados, la consigna de convertir a resposive dos paginas fue realizada con la llamada .index y .contactos. Saludos!
